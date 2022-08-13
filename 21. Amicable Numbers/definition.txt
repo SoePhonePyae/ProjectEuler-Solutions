@@ -1,0 +1,2 @@
+"a" and "b" are amicable numbers when P(a)=b and P(b)=a.
+P(x) = total sum of the divisors of x

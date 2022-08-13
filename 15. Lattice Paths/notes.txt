@@ -1,0 +1,3 @@
+Related with Pascal Numbers(Triangle).
+
+Formula = (n+k)!/(n-k)!*k! where k = vertical, n = horizontal
